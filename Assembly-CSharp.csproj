@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{933B6061-A70F-63C7-FE12-C925891F8BC5}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_3;UNITY_4_5;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\CockpitStickAnimator.cs" />
+     <Compile Include="Assets\CockpitThrottleAnimator.cs" />
+     <Compile Include="Assets\Game\Effects\Thrusters\ImprovedTrail.cs" />
+     <Compile Include="Assets\Game\Effects\Thrusters\ShipThrusterEmitter.cs" />
+     <Compile Include="Assets\Game\Effects\Thrusters\ShipThrusterLight.cs" />
+     <Compile Include="Assets\Game\Effects\Thrusters\ShipThrusterTrail.cs" />
+     <Compile Include="Assets\Game\GameModes\GameMode.cs" />
+     <Compile Include="Assets\Game\GameModes\ModeSwitcher.cs" />
+     <Compile Include="Assets\Game\GameModes\Observer\ObserverMode.cs" />
+     <Compile Include="Assets\Game\GameModes\Pilot\PilotMode.cs" />
+     <Compile Include="Assets\Game\GameModes\Tactical\TacticalMode.cs" />
+     <Compile Include="Assets\Game\Interface\Cameras\FollowCameraCOntroler.cs" />
+     <Compile Include="Assets\Game\Interface\Cameras\FreeCameraControler.cs" />
+     <Compile Include="Assets\Game\Interface\Cameras\ICameraControler.cs" />
+     <Compile Include="Assets\Game\Interface\Cameras\OrbitCameraControler.cs" />
+     <Compile Include="Assets\Game\Interface\PilotHud.cs" />
+     <Compile Include="Assets\Game\Interface\SpaceInterfaceScript.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\Blackout.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\CameraManager.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\FollowCamera.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\FreeOrbitCamera.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\PilotCam.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\SkyboxFade.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\SpaceCamera.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\TacticalInterface.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\TacticalView\CarteasianGrid.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\TacticalView\PolaricGrid.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\TacticalView\TacticalCamera.cs" />
+     <Compile Include="Assets\Game\Managers\CameraManager\TacticalView\TacticalInput.cs" />
+     <Compile Include="Assets\Game\Managers\Globals.cs" />
+     <Compile Include="Assets\Game\Managers\InputManager.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\AI\AIPilot.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\AI\HumanPilot.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\DestroyableObject.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\Emitter.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\Hull.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\ImprovedTrail.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\InertialDrive.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\PowerGenerator.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\Sensors.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\Shield.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\SpaceUnit.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\ThrusterTrail.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\ThrusterTrailControler.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\UI\HudRadar.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\UI\HudTargetManager.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\UI\HudTrack.cs" />
+     <Compile Include="Assets\Game\Ships\Scripts\UI\RadarTrack.cs" />
+     <Compile Include="Assets\Game\Tools.cs" />
+     <Compile Include="Assets\Game\Waypoint.cs" />
+     <Compile Include="Assets\Game\Weapons\Scripts\Explosive.cs" />
+     <Compile Include="Assets\Game\Weapons\Scripts\Projectile.cs" />
+     <Compile Include="Assets\Game\Weapons\Scripts\Warhead.cs" />
+     <Compile Include="Assets\Game\Weapons\Weapon.cs" />
+     <Compile Include="Assets\HudRadar.cs" />
+     <Compile Include="Assets\MapMesh.cs" />
+     <Compile Include="Assets\ShieldParticles.cs" />
+     <None Include="Assets\Game\Shader\DistortionTwo.shader" />
+     <None Include="Assets\Game\Weapons\Plasma Beam\Plasma Beam.shader" />
+     <None Include="Assets\Game\Ships\Common\Shield.shader" />
+     <None Include="Assets\Game\Shader\DistortionOne.shader" />
+     <None Include="Assets\Game\Shader\DarkenImage.shader" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

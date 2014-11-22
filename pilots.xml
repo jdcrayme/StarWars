@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfPilot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pilot>
+    <Name>Name</Name>
+    <Image>NoImage</Image>
+    <Kills>0</Kills>
+  </Pilot>
+  <Pilot>
+    <Name>FooBar</Name>
+    <Image>NoImage</Image>
+    <Kills>0</Kills>
+  </Pilot>
+  <Pilot>
+    <Name>BomberMan</Name>
+    <Image>NoImage</Image>
+    <Kills>0</Kills>
+  </Pilot>
+  <Pilot>
+    <Name>Name</Name>
+    <Image>NoImage</Image>
+    <Kills>0</Kills>
+  </Pilot>
+  <Pilot>
+    <Name>Squink</Name>
+    <Image>Pilot1</Image>
+    <Kills>0</Kills>
+  </Pilot>
+  <Pilot>
+    <Name>Bob</Name>
+    <Image>Pilot4</Image>
+    <Kills>0</Kills>
+  </Pilot>
+</ArrayOfPilot>

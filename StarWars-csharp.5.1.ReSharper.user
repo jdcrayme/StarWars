@@ -1,0 +1,1488 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Camera`0" priority="22" />
+      <Item value="mainCamera" priority="1" />
+      <Item value="private" priority="54" />
+      <Item value="Vector3`0" priority="76" />
+      <Item value="new" priority="163" />
+      <Item value="Vector3" priority="32" />
+      <Item value="enum" priority="9" />
+      <Item value="MenuState`0" priority="2" />
+      <Item value="ChoosePilot" priority="0" />
+      <Item value="switch" priority="5" />
+      <Item value="case" priority="8" />
+      <Item value="break" priority="14" />
+      <Item value="default" priority="2" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="Base64FormattingOptions`0" priority="0" />
+      <Item value="public" priority="187" />
+      <Item value="class" priority="12" />
+      <Item value="string" priority="14" />
+      <Item value="const" priority="14" />
+      <Item value="if" priority="149" />
+      <Item value="CreateNewPilot`0" priority="0" />
+      <Item value="return" priority="54" />
+      <Item value="MainMenu`0" priority="3" />
+      <Item value="static" priority="16" />
+      <Item value="int" priority="46" />
+      <Item value="OK" priority="0" />
+      <Item value="GUILayout`0" priority="3" />
+      <Item value="Rect" priority="10" />
+      <Item value="WINDOW_WIDTH" priority="11" />
+      <Item value="WINDOW_HEIGHT" priority="10" />
+      <Item value="Texture" priority="0" />
+      <Item value="Debug`0" priority="41" />
+      <Item value="_pilotImages" priority="5" />
+      <Item value="Length" priority="18" />
+      <Item value="Resources`0" priority="1" />
+      <Item value="null" priority="42" />
+      <Item value="true" priority="23" />
+      <Item value="ScaleMode`0" priority="0" />
+      <Item value="GUILayoutOption`0" priority="0" />
+      <Item value="GUI`0" priority="8" />
+      <Item value="BUFFER" priority="27" />
+      <Item value="HALF_WIDTH" priority="5" />
+      <Item value="HALF_HEIGHT" priority="2" />
+      <Item value="_pilotImageIndex" priority="0" />
+      <Item value="var" priority="112" />
+      <Item value="Image" priority="0" />
+      <Item value="Kills" priority="0" />
+      <Item value="Name" priority="3" />
+      <Item value="_newPilotName" priority="0" />
+      <Item value="pilot" priority="8" />
+      <Item value="void" priority="41" />
+      <Item value="IXmlSerializable`0" priority="0" />
+      <Item value="File`0" priority="1" />
+      <Item value="file" priority="1" />
+      <Item value="Pilots" priority="1" />
+      <Item value="List&lt;Pilot&gt;" priority="0" />
+      <Item value="foo" priority="3" />
+      <Item value="PilotData`0" priority="6" />
+      <Item value="typeof" priority="27" />
+      <Item value="override" priority="1" />
+      <Item value="start" priority="4" />
+      <Item value="BUTTON_WIDTH" priority="7" />
+      <Item value="BUTTON_HEIGHT" priority="4" />
+      <Item value="QUARTER_WIDTH" priority="1" />
+      <Item value="Object`0" priority="1" />
+      <Item value="ListItem`0" priority="0" />
+      <Item value="listWidth" priority="0" />
+      <Item value="as" priority="4" />
+      <Item value="Texture`0" priority="1" />
+      <Item value="ScaleToFit" priority="0" />
+      <Item value="foreach" priority="28" />
+      <Item value="pilotImage" priority="1" />
+      <Item value="_pilotImage" priority="0" />
+      <Item value="clicked" priority="0" />
+      <Item value="SelectPilot`0" priority="0" />
+      <Item value="itm" priority="0" />
+      <Item value="TreeInstance`0" priority="2" />
+      <Item value="photoX" priority="2" />
+      <Item value="Transform`0" priority="9" />
+      <Item value="emitter" priority="1" />
+      <Item value="float" priority="33" />
+      <Item value="InertialDrive`0" priority="2" />
+      <Item value="this" priority="41" />
+      <Item value="transform" priority="43" />
+      <Item value="_transform" priority="6" />
+      <Item value="_camera" priority="6" />
+      <Item value="PlayerPrefs`0" priority="1" />
+      <Item value="FollowOffset" priority="2" />
+      <Item value="Self" priority="2" />
+      <Item value="playerTrans" priority="7" />
+      <Item value="Quaternion`0" priority="9" />
+      <Item value="Player`0" priority="9" />
+      <Item value="Rigidbody`0" priority="4" />
+      <Item value="rigidbody" priority="3" />
+      <Item value="ChaseTarget" priority="0" />
+      <Item value="_playerTransform" priority="3" />
+      <Item value="World" priority="0" />
+      <Item value="eAng" priority="1" />
+      <Item value="Mathf`0" priority="21" />
+      <Item value="Quaternion" priority="3" />
+      <Item value="Offset" priority="0" />
+      <Item value="_lastTransform" priority="0" />
+      <Item value="bool" priority="12" />
+      <Item value="Order" priority="5" />
+      <Item value="List" priority="8" />
+      <Item value="Order`0" priority="3" />
+      <Item value="GameObject`0" priority="54" />
+      <Item value="Action`0" priority="0" />
+      <Item value="Move" priority="1" />
+      <Item value="Orders" priority="4" />
+      <Item value="order" priority="8" />
+      <Item value="else" priority="28" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="false" priority="22" />
+      <Item value="orderComplete" priority="1" />
+      <Item value="target" priority="15" />
+      <Item value="type" priority="2" />
+      <Item value="Emitter`0" priority="13" />
+      <Item value="Move`0" priority="0" />
+      <Item value="Patrol`0" priority="0" />
+      <Item value="key" priority="0" />
+      <Item value="KeyCode`0" priority="4" />
+      <Item value="Camera" priority="0" />
+      <Item value="_cameras" priority="7" />
+      <Item value="Instantiate`0" priority="10" />
+      <Item value="_currentCameraIndex" priority="9" />
+      <Item value="SelectCamera`0" priority="2" />
+      <Item value="AudioListener`0" priority="10" />
+      <Item value="AudioListener" priority="1" />
+      <Item value="Matrix4x4`0" priority="1" />
+      <Item value="CameraType`0" priority="3" />
+      <Item value="Weapon`0" priority="4" />
+      <Item value="_weapons" priority="3" />
+      <Item value="GetComponents`1" priority="0" />
+      <Item value="weapon" priority="0" />
+      <Item value="Input`0" priority="13" />
+      <Item value="ADPosition`0" priority="0" />
+      <Item value="Position" priority="0" />
+      <Item value="SetPowerLevel`0" priority="0" />
+      <Item value="RPCMode`0" priority="0" />
+      <Item value="currentReserve" priority="0" />
+      <Item value="DoFade`0" priority="0" />
+      <Item value="ScreenWipe`0" priority="0" />
+      <Item value="index" priority="2" />
+      <Item value="AnimationCurve`0" priority="0" />
+      <Item value="Keyframe" priority="1" />
+      <Item value="Keyframe`0" priority="0" />
+      <Item value="AudioSource`0" priority="2" />
+      <Item value="AudioClip`0" priority="2" />
+      <Item value="FireSound" priority="2" />
+      <Item value="launchPosition" priority="0" />
+      <Item value="EngineNoise" priority="1" />
+      <Item value="GetComponent`0" priority="4" />
+      <Item value="audio" priority="0" />
+      <Item value="_audioSource" priority="1" />
+      <Item value="YawControl" priority="0" />
+      <Item value="PitchControl" priority="0" />
+      <Item value="RollSensitivity" priority="0" />
+      <Item value="ThrottleControl" priority="0" />
+      <Item value="Tools`0" priority="5" />
+      <Item value="GetComponentInChildren`1" priority="3" />
+      <Item value="_rigidbody" priority="2" />
+      <Item value="gameObject" priority="31" />
+      <Item value="dead" priority="0" />
+      <Item value="Destroy`0" priority="4" />
+      <Item value="trans" priority="2" />
+      <Item value="mEmitter" priority="4" />
+      <Item value="dot" priority="1" />
+      <Item value="mVel" priority="0" />
+      <Item value="PilotCam`0" priority="2" />
+      <Item value="cam" priority="0" />
+      <Item value="canopy" priority="2" />
+      <Item value="gear" priority="1" />
+      <Item value="animation" priority="3" />
+      <Item value="ClampForever" priority="0" />
+      <Item value="Clamp" priority="0" />
+      <Item value="List&lt;GameObject&gt;" priority="2" />
+      <Item value="Dictionary" priority="2" />
+      <Item value="Dictionary&lt;CameraType,GameObject&gt;" priority="0" />
+      <Item value="lastPlayer" priority="0" />
+      <Item value="FollowCamera`0" priority="1" />
+      <Item value="camera" priority="4" />
+      <Item value="NextCamera`0" priority="0" />
+      <Item value="entry" priority="1" />
+      <Item value="Enum`0" priority="1" />
+      <Item value="_audioListener" priority="0" />
+      <Item value="_currentEulerAngles" priority="8" />
+      <Item value="_quat" priority="1" />
+      <Item value="_defaultEulerAngles" priority="2" />
+      <Item value="YieldInstruction`0" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="_defaultEulers" priority="0" />
+      <Item value="player" priority="1" />
+      <Item value="Color`0" priority="11" />
+      <Item value="Texture2D`0" priority="3" />
+      <Item value="SU_SpaceSceneCamera`0" priority="1" />
+      <Item value="spaceCam" priority="1" />
+      <Item value="tgt" priority="4" />
+      <Item value="yMinLimit" priority="0" />
+      <Item value="min" priority="0" />
+      <Item value="max" priority="0" />
+      <Item value="Reffrence" priority="1" />
+      <Item value="pos" priority="15" />
+      <Item value="h" priority="4" />
+      <Item value="_rotation" priority="0" />
+      <Item value="v" priority="2" />
+      <Item value="mouseBtn" priority="0" />
+      <Item value="Screen`0" priority="0" />
+      <Item value="mousePosn" priority="1" />
+      <Item value="leftClick" priority="1" />
+      <Item value="Target" priority="4" />
+      <Item value="targetPosition" priority="0" />
+      <Item value="Distance" priority="0" />
+      <Item value="_orbitCam" priority="0" />
+      <Item value="GridStartFadeIn" priority="1" />
+      <Item value="_grid" priority="2" />
+      <Item value="alpha" priority="1" />
+      <Item value="Material`0" priority="5" />
+      <Item value="Shader" priority="0" />
+      <Item value="Shader`0" priority="0" />
+      <Item value="renderer" priority="1" />
+      <Item value="BackgroundTexture" priority="2" />
+      <Item value="Graphics`0" priority="2" />
+      <Item value="RenderTexture`0" priority="0" />
+      <Item value="Skybox`0" priority="0" />
+      <Item value="Skybox" priority="0" />
+      <Item value="Color" priority="4" />
+      <Item value="_alpha" priority="4" />
+      <Item value="ParticleSystem`0" priority="2" />
+      <Item value="GetComponentsInChildren`1" priority="0" />
+      <Item value="system" priority="0" />
+      <Item value="SU_SpaceParticles`0" priority="1" />
+      <Item value="RenderSettings`0" priority="2" />
+      <Item value="mat" priority="2" />
+      <Item value="UILabel`0" priority="10" />
+      <Item value="labelObject" priority="6" />
+      <Item value="lbl" priority="4" />
+      <Item value="_corner" priority="2" />
+      <Item value="MajorLineColor" priority="1" />
+      <Item value="i" priority="55" />
+      <Item value="TopLeft" priority="0" />
+      <Item value="Center" priority="6" />
+      <Item value="Right" priority="0" />
+      <Item value="_verticalOffset" priority="0" />
+      <Item value="Units" priority="2" />
+      <Item value="List&lt;UILabel&gt;" priority="0" />
+      <Item value="label" priority="6" />
+      <Item value="SpaceUnit`0" priority="2" />
+      <Item value="unit" priority="2" />
+      <Item value="AddUnit`0" priority="0" />
+      <Item value="Renderer`0" priority="0" />
+      <Item value="position" priority="1" />
+      <Item value="GL`0" priority="4" />
+      <Item value="value" priority="1" />
+      <Item value="CameraManager`0" priority="10" />
+      <Item value="CameraManager" priority="3" />
+      <Item value="UIPanel`0" priority="0" />
+      <Item value="PanelScale" priority="0" />
+      <Item value="_panel" priority="1" />
+      <Item value="widget" priority="2" />
+      <Item value="Grid" priority="0" />
+      <Item value="UICamera`0" priority="2" />
+      <Item value="_interfaceCamera" priority="0" />
+      <Item value="UITexture`0" priority="0" />
+      <Item value="_nameAndDesignator" priority="2" />
+      <Item value="_description" priority="1" />
+      <Item value="_image" priority="1" />
+      <Item value="CurrentSelection" priority="4" />
+      <Item value="for" priority="17" />
+      <Item value="SelectionPanel`0" priority="1" />
+      <Item value="DrawBox`0" priority="0" />
+      <Item value="p1" priority="2" />
+      <Item value="size" priority="1" />
+      <Item value="p4" priority="2" />
+      <Item value="up" priority="0" />
+      <Item value="steps" priority="1" />
+      <Item value="Waypoints" priority="0" />
+      <Item value="UILabel" priority="0" />
+      <Item value="labelObj" priority="3" />
+      <Item value="name" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="MainPanel" priority="2" />
+      <Item value="OptionsPanel" priority="0" />
+      <Item value="emmiter" priority="17" />
+      <Item value="SerializePrivateVariables`0" priority="2" />
+      <Item value="item" priority="5" />
+      <Item value="Dictionary&lt;string,GameObject&gt;" priority="0" />
+      <Item value="_items" priority="3" />
+      <Item value="tagedItem" priority="0" />
+      <Item value="tag" priority="1" />
+      <Item value="obj" priority="2" />
+      <Item value="menuItem" priority="4" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="Emitter" priority="6" />
+      <Item value="Description" priority="0" />
+      <Item value="reload" priority="0" />
+      <Item value="UITable`0" priority="1" />
+      <Item value="FreeOrbitCamera`0" priority="0" />
+      <Item value="SU_CameraFollow`0" priority="1" />
+      <Item value="DrawCamera" priority="0" />
+      <Item value="azmuth" priority="1" />
+      <Item value="height" priority="1" />
+      <Item value="_polarGrid" priority="1" />
+      <Item value="AIPilot`0" priority="1" />
+      <Item value="GameObject" priority="0" />
+      <Item value="LogType`0" priority="3" />
+      <Item value="List&lt;Order&gt;" priority="0" />
+      <Item value="emiter" priority="2" />
+      <Item value="DrawCircle`0" priority="0" />
+      <Item value="scale" priority="0" />
+      <Item value="LabelScale" priority="0" />
+      <Item value="TacticalInput`0" priority="1" />
+      <Item value="SelectedObjects" priority="3" />
+      <Item value="Instance" priority="0" />
+      <Item value="_labelObj" priority="0" />
+      <Item value="TacticalView" priority="0" />
+      <Item value="State`0" priority="1" />
+      <Item value="Normal" priority="3" />
+      <Item value="Azmuth" priority="2" />
+      <Item value="_state" priority="7" />
+      <Item value="Height" priority="3" />
+      <Item value="delta" priority="3" />
+      <Item value="TextStepSize" priority="0" />
+      <Item value="CompassOrigen" priority="0" />
+      <Item value="SelectionCenterOfMass" priority="0" />
+      <Item value="_selectionStart" priority="1" />
+      <Item value="screenPos" priority="1" />
+      <Item value="minX" priority="0" />
+      <Item value="maxX" priority="0" />
+      <Item value="CameraMode`0" priority="2" />
+      <Item value="Tactical" priority="2" />
+      <Item value="_currentCamera" priority="12" />
+      <Item value="TacticalCamera" priority="1" />
+      <Item value="SwitchCamera`0" priority="0" />
+      <Item value="SceneCamera" priority="2" />
+      <Item value="_cameraTarget" priority="5" />
+      <Item value="ActivateFollowCam`0" priority="0" />
+      <Item value="_currentMode" priority="3" />
+      <Item value="Follow" priority="0" />
+      <Item value="CameraClearFlags`0" priority="0" />
+      <Item value="tacCam" priority="3" />
+      <Item value="PilotGUI" priority="0" />
+      <Item value="TacticalGUI" priority="0" />
+      <Item value="SpeedWidget" priority="1" />
+      <Item value="inertialDrive" priority="0" />
+      <Item value="Player" priority="0" />
+      <Item value="drive" priority="1" />
+      <Item value="_inertialDrive" priority="0" />
+      <Item value="_sensors" priority="0" />
+      <Item value="sensors" priority="0" />
+      <Item value="weapons" priority="0" />
+      <Item value="ai" priority="0" />
+      <Item value="_ai" priority="2" />
+      <Item value="mControl" priority="0" />
+      <Item value="wpts" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="TacticalCamera`0" priority="0" />
+      <Item value="newCam" priority="0" />
+      <Item value="cameraObj" priority="1" />
+      <Item value="ICamera`0" priority="1" />
+      <Item value="MonoBehaviour`0" priority="0" />
+      <Item value="Console`0" priority="3" />
+      <Item value="_unitCounter" priority="2" />
+      <Item value="SetPilotCamera`0" priority="1" />
+      <Item value="_currentUnit" priority="2" />
+      <Item value="ShowInside`0" priority="0" />
+      <Item value="FollowCamPrefab" priority="0" />
+      <Item value="PilotCamPrefab" priority="0" />
+      <Item value="currentShip" priority="0" />
+      <Item value="ArrayList`0" priority="2" />
+      <Item value="Hashtable`0" priority="0" />
+      <Item value="Dictionary&lt;GameObject,HudTarget&gt;" priority="0" />
+      <Item value="self" priority="0" />
+      <Item value="selfEmiter" priority="1" />
+      <Item value="continue" priority="1" />
+      <Item value="activeTargets" priority="1" />
+      <Item value="HudTarget`0" priority="2" />
+      <Item value="X_ANG" priority="0" />
+      <Item value="Y_ANG" priority="0" />
+      <Item value="HudTargetPrefab" priority="0" />
+      <Item value="RadarTargetPrefab" priority="0" />
+      <Item value="_radarTarget" priority="0" />
+      <Item value="Sensors`0" priority="1" />
+      <Item value="_newTracks" priority="1" />
+      <Item value="_oldTracks" priority="1" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="Time`0" priority="4" />
+      <Item value="Dictionary&lt;Emitter,SensorTrack&gt;" priority="2" />
+      <Item value="List&lt;SensorTrack&gt;" priority="1" />
+      <Item value="SensorTrack`0" priority="0" />
+      <Item value="_currentTracks" priority="2" />
+      <Item value="newTarget" priority="1" />
+      <Item value="protected" priority="2" />
+      <Item value="track" priority="6" />
+      <Item value="Sensors" priority="1" />
+      <Item value="newTrack" priority="1" />
+      <Item value="Dictionary&lt;SensorTrack,HudTarget&gt;" priority="0" />
+      <Item value="oldTrack" priority="1" />
+      <Item value="_activeTracks" priority="1" />
+      <Item value="radarTrack" priority="0" />
+      <Item value="relPosition" priority="0" />
+      <Item value="trackPos" priority="1" />
+      <Item value="GravitationalBody`0" priority="4" />
+      <Item value="ArrayList" priority="0" />
+      <Item value="MasterServer`0" priority="1" />
+      <Item value="Bodies" priority="0" />
+      <Item value="Mass" priority="1" />
+      <Item value="body" priority="4" />
+      <Item value="direction" priority="0" />
+      <Item value="magnitude" priority="0" />
+      <Item value="force" priority="1" />
+      <Item value="calculateForce`0" priority="0" />
+      <Item value="LineRenderer`0" priority="0" />
+      <Item value="line" priority="3" />
+      <Item value="StackTraceUtility`0" priority="0" />
+      <Item value="Stack&lt;Vector3&gt;" priority="0" />
+      <Item value="points" priority="1" />
+      <Item value="parentBody" priority="2" />
+      <Item value="relPos" priority="2" />
+      <Item value="relVel" priority="2" />
+      <Item value="specificAngularMomentum" priority="3" />
+      <Item value="specificAngularMomentumMagnitude" priority="0" />
+      <Item value="inclination" priority="0" />
+      <Item value="Region`0" priority="7" />
+      <Item value="Point`0" priority="5" />
+      <Item value="Region" priority="0" />
+      <Item value="reg" priority="0" />
+      <Item value="Vector2" priority="2" />
+      <Item value="Random`0" priority="5" />
+      <Item value="rand" priority="0" />
+      <Item value="WIDTH" priority="4" />
+      <Item value="HEIGHT" priority="7" />
+      <Item value="Neigbors" priority="9" />
+      <Item value="_regions" priority="1" />
+      <Item value="DistantObjects`0" priority="0" />
+      <Item value="region" priority="8" />
+      <Item value="dist" priority="0" />
+      <Item value="GetValue`0" priority="0" />
+      <Item value="dummy" priority="5" />
+      <Item value="refrence" priority="4" />
+      <Item value="from" priority="0" />
+      <Item value="orderby" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="_neigbors" priority="0" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="while" priority="1" />
+      <Item value="left" priority="1" />
+      <Item value="remaining" priority="1" />
+      <Item value="sortedRegionsNeigbors" priority="0" />
+      <Item value="ascending" priority="1" />
+      <Item value="descending" priority="0" />
+      <Item value="j" priority="10" />
+      <Item value="Points" priority="11" />
+      <Item value="_size" priority="0" />
+      <Item value="tile" priority="4" />
+      <Item value="Vstep" priority="1" />
+      <Item value="QuadRegion`0" priority="1" />
+      <Item value="QuadRegion" priority="2" />
+      <Item value="AudioDistortionFilter`0" priority="0" />
+      <Item value="Neighbors" priority="4" />
+      <Item value="List&lt;Material&gt;" priority="0" />
+      <Item value="quadRegion" priority="2" />
+      <Item value="Mesh`0" priority="3" />
+      <Item value="Materials" priority="1" />
+      <Item value="width" priority="1" />
+      <Item value="retVal" priority="11" />
+      <Item value="regionTypes" priority="0" />
+      <Item value="k" priority="1" />
+      <Item value="TERRAIN_SEED" priority="0" />
+      <Item value="Random" priority="2" />
+      <Item value="TERRAIN_GROW_PROB" priority="1" />
+      <Item value="map1" priority="0" />
+      <Item value="map2" priority="0" />
+      <Item value="HexRegion`0" priority="4" />
+      <Item value="base" priority="3" />
+      <Item value="mesh" priority="1" />
+      <Item value="vertices" priority="15" />
+      <Item value="delta1" priority="1" />
+      <Item value="CopyTo`0" priority="2" />
+      <Item value="d1" priority="4" />
+      <Item value="s3" priority="0" />
+      <Item value="VoronoiMap`0" priority="1" />
+      <Item value="RegionType" priority="1" />
+      <Item value="TileGround`0" priority="1" />
+      <Item value="virtual" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="trimAmt" priority="0" />
+      <Item value="beachVerts" priority="4" />
+      <Item value="CreateBeach`0" priority="0" />
+      <Item value="beach" priority="6" />
+      <Item value="MeshFilter`0" priority="2" />
+      <Item value="MeshRenderer`0" priority="1" />
+      <Item value="Managers" priority="0" />
+      <Item value="y" priority="1" />
+      <Item value="z" priority="0" />
+      <Item value="Pos" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="Edge`0" priority="14" />
+      <Item value="Edge" priority="14" />
+      <Item value="Edges" priority="2" />
+      <Item value="GenerateBaseVerticies`0" priority="0" />
+      <Item value="point" priority="9" />
+      <Item value="List&lt;Vector3&gt;" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="tileVerts" priority="1" />
+      <Item value="Opposite" priority="0" />
+      <Item value="edge" priority="23" />
+      <Item value="Array`0" priority="1" />
+      <Item value="in" priority="0" />
+      <Item value="neigbor" priority="0" />
+      <Item value="_edgeRoot" priority="3" />
+      <Item value="currentEdge" priority="9" />
+      <Item value="normals" priority="1" />
+      <Item value="tri" priority="3" />
+      <Item value="BuildGeometry`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="neighbor" priority="2" />
+      <Item value="Grass" priority="0" />
+      <Item value="NeighborType" priority="0" />
+      <Item value="part" priority="3" />
+      <Item value="meshFilter" priority="1" />
+      <Item value="polyComponant" priority="3" />
+      <Item value="polyObject" priority="1" />
+      <Item value="Water" priority="5" />
+      <Item value="end" priority="3" />
+      <Item value="divs" priority="2" />
+      <Item value="insetBase" priority="5" />
+      <Item value="insetIncrement" priority="1" />
+      <Item value="getLastEdge`0" priority="0" />
+      <Item value="TestTile`0" priority="4" />
+      <Item value="nextEdge" priority="4" />
+      <Item value="GetNextEdge`0" priority="0" />
+      <Item value="lastEdge" priority="4" />
+      <Item value="done" priority="0" />
+      <Item value="inset" priority="0" />
+      <Item value="ShipThrusterEmitter`0" priority="0" />
+      <Item value="beachEdge" priority="5" />
+      <Item value="currentBeachEdge" priority="2" />
+      <Item value="newEdge" priority="5" />
+      <Item value="Material1" priority="1" />
+      <Item value="Material2" priority="0" />
+      <Item value="EdgeCollider2D`0" priority="1" />
+      <Item value="PolyEdge`0" priority="2" />
+      <Item value="NextEdge" priority="1" />
+      <Item value="ammount" priority="1" />
+      <Item value="v1" priority="1" />
+      <Item value="v2" priority="1" />
+      <Item value="TilePoly`0" priority="0" />
+      <Item value="newPoly" priority="2" />
+      <Item value="p3" priority="0" />
+      <Item value="p2" priority="0" />
+      <Item value="uv" priority="0" />
+      <Item value="vertexFanIndex" priority="0" />
+      <Item value="Neighbor" priority="0" />
+      <Item value="MeshTopology`0" priority="0" />
+      <Item value="prefab" priority="2" />
+      <Item value="ProjectileType`0" priority="0" />
+      <Item value="Dictionary&lt;ProjectileTypeName,ProjectileType&gt;" priority="0" />
+      <Item value="ProjectileType" priority="1" />
+      <Item value="color" priority="1" />
+      <Item value="speed" priority="1" />
+      <Item value="Types" priority="0" />
+      <Item value="WeaponType`0" priority="1" />
+      <Item value="Dictionary&lt;WeaponTypeName,WeaponType&gt;" priority="0" />
+      <Item value="WeaponType" priority="0" />
+      <Item value="ProjectileTypes`0" priority="1" />
+      <Item value="projectileType" priority="0" />
+      <Item value="_currentCharge" priority="5" />
+      <Item value="MaxCharge" priority="1" />
+      <Item value="RechargeRatePerSecond" priority="0" />
+      <Item value="Math`0" priority="0" />
+      <Item value="char" priority="0" />
+      <Item value="ChargePerShot" priority="1" />
+      <Item value="_lastShotTime" priority="1" />
+      <Item value="go" priority="0" />
+      <Item value="Projectile" priority="1" />
+      <Item value="_launcherRigidbody" priority="0" />
+      <Item value="_launchingUnit" priority="0" />
+      <Item value="_disabled" priority="2" />
+      <Item value="rb" priority="1" />
+      <Item value="hull" priority="0" />
+      <Item value="MuzzleFlash" priority="1" />
+      <Item value="_control" priority="0" />
+      <Item value="_original" priority="0" />
+      <Item value="col" priority="0" />
+      <Item value="collider" priority="1" />
+      <Item value="ImagePosition`0" priority="0" />
+      <Item value="Done" priority="0" />
+      <Item value="particle" priority="0" />
+      <Item value="ShieldParticles`0" priority="0" />
+      <Item value="collision" priority="5" />
+      <Item value="Dictionary&lt;int,int&gt;" priority="0" />
+      <Item value="particles" priority="0" />
+      <Item value="Collider`0" priority="1" />
+      <Item value="alive" priority="1" />
+      <Item value="DestroyableObject`0" priority="1" />
+      <Item value="contact" priority="4" />
+      <Item value="ShieldHitPrefab" priority="0" />
+      <Item value="HullHitPrefab" priority="0" />
+      <Item value="destroyableObject" priority="1" />
+      <Item value="ShieldStrength" priority="1" />
+      <Item value="Damage`0" priority="0" />
+      <Item value="rot" priority="0" />
+      <Item value="_destroyed" priority="1" />
+      <Item value="damage" priority="1" />
+      <Item value="DebrisPrefab" priority="0" />
+      <Item value="_r" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Camera">
+      <Item value="mainCamera" priority="2" />
+      <Item value="current" priority="5" />
+      <Item value="main" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Camera">
+      <Item value="transform" priority="18" />
+      <Item value="active" priority="0" />
+      <Item value="gameObject" priority="3" />
+      <Item value="tag" priority="1" />
+      <Item value="renderer" priority="0" />
+      <Item value="Render`0" priority="0" />
+      <Item value="clearFlags" priority="0" />
+      <Item value="name" priority="3" />
+      <Item value="cameraToWorldMatrix" priority="1" />
+      <Item value="worldToCameraMatrix" priority="1" />
+      <Item value="projectionMatrix" priority="0" />
+      <Item value="GetComponent`0" priority="1" />
+      <Item value="WorldToScreenPoint`0" priority="1" />
+      <Item value="ScreenToWorldPoint`0" priority="0" />
+      <Item value="enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Transform">
+      <Item value="RotateAroundLocal`0" priority="1" />
+      <Item value="LookAt`0" priority="2" />
+      <Item value="rotation" priority="18" />
+      <Item value="Translate`0" priority="2" />
+      <Item value="position" priority="50" />
+      <Item value="up" priority="6" />
+      <Item value="forward" priority="5" />
+      <Item value="Rotate`0" priority="3" />
+      <Item value="eulerAngles" priority="4" />
+      <Item value="parent" priority="18" />
+      <Item value="transform" priority="0" />
+      <Item value="localScale" priority="10" />
+      <Item value="localEulerAngles" priority="6" />
+      <Item value="localPosition" priority="10" />
+      <Item value="InverseTransformPoint`0" priority="1" />
+      <Item value="right" priority="2" />
+      <Item value="localRotation" priority="3" />
+      <Item value="localToWorldMatrix" priority="1" />
+      <Item value="worldToLocalMatrix" priority="0" />
+      <Item value="FindChild`0" priority="1" />
+      <Item value="gameObject" priority="4" />
+      <Item value="GetChild`0" priority="0" />
+      <Item value="childCount" priority="0" />
+      <Item value="GetComponent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MainMenu+MenuState">
+      <Item value="ChoosePilot" priority="0" />
+      <Item value="CreatePilot" priority="3" />
+      <Item value="SelectPilot" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CreateNewPilot">
+      <Item value="Draw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MainMenu">
+      <Item value="MenuState`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.GUILayout">
+      <Item value="BeginHorizontal`0" priority="0" />
+      <Item value="EndHorizontal`0" priority="0" />
+      <Item value="TextField`0" priority="0" />
+      <Item value="Button`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.GUI">
+      <Item value="DrawTexture`0" priority="1" />
+      <Item value="BeginGroup`0" priority="2" />
+      <Item value="EndGroup`0" priority="2" />
+      <Item value="Button`0" priority="0" />
+      <Item value="Window`0" priority="1" />
+      <Item value="Label`0" priority="0" />
+      <Item value="TextArea`0" priority="0" />
+      <Item value="Box`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Debug">
+      <Item value="Log`0" priority="41" />
+      <Item value="DebugBreak`0" priority="0" />
+      <Item value="LogWarning`0" priority="0" />
+      <Item value="LogError`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.ScaleMode">
+      <Item value="ScaleAndCrop" priority="0" />
+      <Item value="ScaleToFit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Object">
+      <Item value="name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PilotData">
+      <Item value="Pilot`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="CreateText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="GetType`0" priority="0" />
+      <Item value="Add`0" priority="23" />
+      <Item value="Count" priority="15" />
+      <Item value="Remove`0" priority="3" />
+      <Item value="Clear`0" priority="9" />
+      <Item value="Contains`0" priority="2" />
+      <Item value="Indexer" priority="1" />
+      <Item value="RemoveAt`0" priority="0" />
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="Sort`0" priority="0" />
+      <Item value="First`1" priority="1" />
+      <Item value="AddRange`0" priority="3" />
+      <Item value="ToArray`0" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.MainMenu.PilotData">
+      <Item value="Pilots" priority="2" />
+      <Item value="SavePilots`0" priority="0" />
+      <Item value="LoadPilots`0" priority="0" />
+      <Item value="PilotImages" priority="2" />
+      <Item value="LoadImages`0" priority="0" />
+      <Item value="Pilot`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Texture">
+      <Item value="name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.MainMenu.PilotData+Pilot">
+      <Item value="Image" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Ships.Scripts.Emitter">
+      <Item value="TheaterEmitters" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Ships.Scripts.Emitter">
+      <Item value="transform" priority="3" />
+      <Item value="gameObject" priority="2" />
+      <Item value="Name" priority="0" />
+      <Item value="Designator" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="Image" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Ships.Scripts.AI.Player">
+      <Item value="GetComponent`0" priority="2" />
+      <Item value="Transform" priority="1" />
+      <Item value="Rigidbody" priority="0" />
+      <Item value="transform" priority="0" />
+      <Item value="GetComponentInChildren`1" priority="0" />
+      <Item value="gameObject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Ships.Scripts.InertialDrive">
+      <Item value="PitchControl" priority="1" />
+      <Item value="YawControl" priority="0" />
+      <Item value="RollControl" priority="0" />
+      <Item value="ThrottleControl" priority="6" />
+      <Item value="transform" priority="0" />
+      <Item value="Speed" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Ships.Scripts.AI.Player">
+      <Item value="CurrentPlayer" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Space">
+      <Item value="World" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Quaternion">
+      <Item value="SetLookRotation`0" priority="0" />
+      <Item value="eulerAngles" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Quaternion">
+      <Item value="Euler`0" priority="2" />
+      <Item value="FromToRotation`0" priority="0" />
+      <Item value="LookRotation`0" priority="0" />
+      <Item value="identity" priority="3" />
+      <Item value="AngleAxis`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Vector3">
+      <Item value="x" priority="15" />
+      <Item value="y" priority="12" />
+      <Item value="magnitude" priority="7" />
+      <Item value="z" priority="8" />
+      <Item value="sqrMagnitude" priority="2" />
+      <Item value="Normalize`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="normalized" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Mathf">
+      <Item value="Deg2Rad" priority="0" />
+      <Item value="Abs`0" priority="1" />
+      <Item value="Clamp`0" priority="1" />
+      <Item value="Sin`0" priority="1" />
+      <Item value="PI" priority="3" />
+      <Item value="Cos`0" priority="4" />
+      <Item value="Round`0" priority="1" />
+      <Item value="Min`0" priority="0" />
+      <Item value="Acos`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Ships.Scripts.AI.AIPilot+Order">
+      <Item value="OrderAction" priority="1" />
+      <Item value="Targets" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Ships.Scripts.AI.AIPilot+Order">
+      <Item value="Action`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Ships.Scripts.AI.AIPilot+Order+Action">
+      <Item value="Move" priority="0" />
+      <Item value="Patrol" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.GameObject">
+      <Item value="GetComponent`0" priority="18" />
+      <Item value="transform" priority="55" />
+      <Item value="SetActive`0" priority="16" />
+      <Item value="camera" priority="3" />
+      <Item value="AddComponent`1" priority="7" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="GetComponentInChildren`1" priority="5" />
+      <Item value="gameObject" priority="0" />
+      <Item value="renderer" priority="3" />
+      <Item value="name" priority="6" />
+      <Item value="layer" priority="1" />
+      <Item value="animation" priority="0" />
+      <Item value="active" priority="1" />
+      <Item value="activeSelf" priority="1" />
+      <Item value="tag" priority="0" />
+      <Item value="activeInHierarchy" priority="0" />
+      <Item value="GetComponents`1" priority="1" />
+      <Item value="rigidbody" priority="2" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Input">
+      <Item value="GetKey`0" priority="3" />
+      <Item value="GetKeyDown`0" priority="2" />
+      <Item value="GetButton`0" priority="1" />
+      <Item value="GetButtonDown`0" priority="2" />
+      <Item value="GetAxis`0" priority="2" />
+      <Item value="mousePosition" priority="3" />
+      <Item value="GetMouseButtonDown`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.KeyCode">
+      <Item value="Tab" priority="0" />
+      <Item value="F" priority="0" />
+      <Item value="JoystickButton0" priority="0" />
+      <Item value="G" priority="0" />
+      <Item value="LeftControl" priority="0" />
+      <Item value="Escape" priority="0" />
+      <Item value="RightShift" priority="0" />
+      <Item value="RightControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.AudioListener">
+      <Item value="gameObject" priority="3" />
+      <Item value="transform" priority="1" />
+      <Item value="audio" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Matrix4x4">
+      <Item value="identity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.GameObject">
+      <Item value="CreatePrimitive`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.CameraManager.CameraManager">
+      <Item value="gameObject" priority="0" />
+      <Item value="MainCamera" priority="4" />
+      <Item value="InterfaceCamera" priority="0" />
+      <Item value="CameraTarget" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.CameraManager.CameraManager+CameraType">
+      <Item value="Follow" priority="2" />
+      <Item value="Tactical" priority="3" />
+      <Item value="Pilot" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Ships.Scripts.WeaponLauncher">
+      <Item value="rigidbody" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Rigidbody">
+      <Item value="SetVelocity`0" priority="0" />
+      <Item value="velocity" priority="6" />
+      <Item value="angularVelocity" priority="0" />
+      <Item value="AddForce`0" priority="0" />
+      <Item value="mass" priority="1" />
+      <Item value="AddExplosionForce`0" priority="0" />
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Weapon">
+      <Item value="Fire`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Vector3">
+      <Item value="zero" priority="19" />
+      <Item value="forward" priority="6" />
+      <Item value="left" priority="0" />
+      <Item value="ua" priority="0" />
+      <Item value="one" priority="3" />
+      <Item value="Normalize`0" priority="0" />
+      <Item value="up" priority="0" />
+      <Item value="Dot`0" priority="0" />
+      <Item value="Cross`0" priority="1" />
+      <Item value="right" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.RPCMode">
+      <Item value="Others" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.CameraManager.ScreenWipe">
+      <Item value="use" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.CameraManager.ScreenWipe">
+      <Item value="CrossFade`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.AudioClip">
+      <Item value="isReadyToPlay" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.AudioSource">
+      <Item value="PlayClipAtPoint`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.AudioSource">
+      <Item value="pitch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Tools">
+      <Item value="FindInParents`1" priority="1" />
+      <Item value="WrapAngle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.ParticleEmitter">
+      <Item value="emitterVelocityScale" priority="0" />
+      <Item value="localVelocity" priority="1" />
+      <Item value="enabled" priority="0" />
+      <Item value="emit" priority="0" />
+      <Item value="minEnergy" priority="0" />
+      <Item value="maxEnergy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.CameraManager.PilotCam">
+      <Item value="gameObject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Animation">
+      <Item value="GetClip`0" priority="0" />
+      <Item value="Play`0" priority="2" />
+      <Item value="Rewind`0" priority="1" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="IsPlaying`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.AnimationState">
+      <Item value="wrapMode" priority="1" />
+      <Item value="time" priority="0" />
+      <Item value="length" priority="0" />
+      <Item value="enabled" priority="0" />
+      <Item value="speed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.WrapMode">
+      <Item value="PingPong" priority="0" />
+      <Item value="Clamp" priority="0" />
+      <Item value="ClampForever" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.CameraManager.FollowCamera">
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Values" priority="3" />
+      <Item value="Remove`0" priority="3" />
+      <Item value="ContainsKey`0" priority="2" />
+      <Item value="Add`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+ValueCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="1" />
+      <Item value="Value" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetNames`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Renderer">
+      <Item value="materials" priority="0" />
+      <Item value="material" priority="4" />
+      <Item value="bounds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Material">
+      <Item value="SetTexture`0" priority="0" />
+      <Item value="color" priority="0" />
+      <Item value="mainTexture" priority="1" />
+      <Item value="SetColor`0" priority="2" />
+      <Item value="shader" priority="0" />
+      <Item value="SetFloat`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Texture2D">
+      <Item value="Instantiate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Color">
+      <Item value="blue" priority="1" />
+      <Item value="white" priority="2" />
+      <Item value="black" priority="3" />
+      <Item value="red" priority="0" />
+      <Item value="green" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.TacticalView.Scripts.TacticalInput">
+      <Item value="gameObject" priority="0" />
+      <Item value="SelectedObjects" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Screen">
+      <Item value="width" priority="0" />
+      <Item value="height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.FreeOrbitCamera">
+      <Item value="Target" priority="0" />
+      <Item value="Distance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.TacticalView.Scripts.CarteasianGrid">
+      <Item value="MajorLineColor" priority="1" />
+      <Item value="MinorLineColor" priority="0" />
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Color">
+      <Item value="a" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Shader">
+      <Item value="Find`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.RenderSettings">
+      <Item value="skybox" priority="0" />
+      <Item value="fogColor" priority="0" />
+      <Item value="fogStartDistance" priority="0" />
+      <Item value="fogDensity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Graphics">
+      <Item value="DrawTexture`0" priority="0" />
+      <Item value="Blit`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Skybox">
+      <Item value="material" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.CameraManager.SkyboxFade">
+      <Item value="GetComponentInChildren`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SU_SpaceParticles">
+      <Item value="renderer" priority="0" />
+      <Item value="distanceFade" priority="0" />
+      <Item value="alphaMultiplier" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Component">
+      <Item value="guiText" priority="0" />
+      <Item value="tag" priority="0" />
+      <Item value="active" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UILabel">
+      <Item value="text" priority="9" />
+      <Item value="color" priority="0" />
+      <Item value="pivot" priority="0" />
+      <Item value="alpha" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UIWidget+Pivot">
+      <Item value="Left" priority="0" />
+      <Item value="Bottom" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.CameraManager.CameraManager">
+      <Item value="_defaultCamera" priority="0" />
+      <Item value="Instance" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Bounds">
+      <Item value="center" priority="0" />
+      <Item value="extents" priority="0" />
+      <Item value="size" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ControlAlignAndScale">
+      <Item value="transform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.GL">
+      <Item value="modelview" priority="0" />
+      <Item value="LoadProjectionMatrix`0" priority="0" />
+      <Item value="PushMatrix`0" priority="0" />
+      <Item value="PopMatrix`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPanel">
+      <Item value="widgets" priority="0" />
+      <Item value="IsVisible`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIWidget">
+      <Item value="alpha" priority="1" />
+      <Item value="color" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SelectionPanel">
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UITexture">
+      <Item value="mainTexture" priority="0" />
+      <Item value="material" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.SelectionPanel">
+      <Item value="CurrentSelection" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Waypoint">
+      <Item value="Waypoints" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.TacticalView.Scripts.CarteasianGrid">
+      <Item value="Instance" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Application">
+      <Item value="Quit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Game.Ships.Scripts.Emitter">
+      <Item value="TheaterEmitters" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Ships.Scripts.Emitter">
+      <Item value="Designator" priority="2" />
+      <Item value="Description" priority="0" />
+      <Item value="gameObject" priority="1" />
+      <Item value="transform" priority="1" />
+      <Item value="name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.ShipPanel+tagedItem">
+      <Item value="tag" priority="1" />
+      <Item value="obj" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.ShipListItem">
+      <Item value="Emitter" priority="0" />
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UITable">
+      <Item value="repositionNow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.CameraManager.FreeOrbitCamera">
+      <Item value="Target" priority="0" />
+      <Item value="transform" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Ships.Scripts.AI.AIPilot">
+      <Item value="Move`0" priority="0" />
+      <Item value="Orders" priority="1" />
+      <Item value="enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.TacticalView.Scripts.TacticalInput">
+      <Item value="Instance" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.TacticalView.Scripts.TacticalInput+State">
+      <Item value="Azmuth" priority="0" />
+      <Item value="Normal" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Vector2">
+      <Item value="zero" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.CameraManager.CameraManager+CameraMode">
+      <Item value="Follow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UISprite">
+      <Item value="mainTexture" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Game.Ships.Scripts.AI.HumanPilot">
+      <Item value="Instantiate`0" priority="0" />
+      <Item value="CurrentPlayer" priority="0" />
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Game.Managers.CameraManager.CameraManager">
+      <Item value="Instance" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Managers.CameraManager.CameraManager">
+      <Item value="PilotCamera" priority="1" />
+      <Item value="FollowCameraPrefab" priority="0" />
+      <Item value="SwapCamera`0" priority="0" />
+      <Item value="CameraTarget" priority="0" />
+      <Item value="CurrentCamera" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Waypoint">
+      <Item value="transform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.SpaceUnit">
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Game.Managers.CameraManager.CameraManager+CameraMode">
+      <Item value="Tactical" priority="2" />
+      <Item value="Pilot" priority="2" />
+      <Item value="Follow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Ships.Scripts.SpaceUnit">
+      <Item value="ShowInterior`0" priority="1" />
+      <Item value="gameObject" priority="2" />
+      <Item value="ShowExterior`0" priority="0" />
+      <Item value="GetComponent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Managers.CameraManager.CameraManager+ICamera">
+      <Item value="Deactivate`0" priority="2" />
+      <Item value="Activate`0" priority="2" />
+      <Item value="Camera" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Managers.CameraManager.FollowCamera">
+      <Item value="Activate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.MonoBehaviour">
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Game.Ships.Scripts.SpaceUnit">
+      <Item value="Units" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HudTarget">
+      <Item value="gameObject" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Single">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ControlDebug">
+      <Item value="GetComponent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromTicks`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Time">
+      <Item value="frameCount" priority="1" />
+      <Item value="timeSinceLevelLoad" priority="0" />
+      <Item value="deltaTime" priority="0" />
+      <Item value="time" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Ships.Scripts.Sensors+SensorTrack">
+      <Item value="LastUpdatedFrame" priority="0" />
+      <Item value="Emitter" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Ships.Scripts.Sensors">
+      <Item value="CurrentTracks" priority="0" />
+      <Item value="NewTracks" priority="0" />
+      <Item value="gameObject" priority="0" />
+      <Item value="OldTracks" priority="0" />
+      <Item value="ToRadarCoord`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Ships.Scripts.UI.HudTargetManager">
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RadarTrack">
+      <Item value="transform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.GravitationalBody">
+      <Item value="Mass" priority="2" />
+      <Item value="gameObject" priority="0" />
+      <Item value="transform" priority="2" />
+      <Item value="rigidbody" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.NumberStyles">
+      <Item value="Number" priority="0" />
+      <Item value="Float" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.LineRenderer">
+      <Item value="SetPosition`0" priority="1" />
+      <Item value="SetVertexCount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Stack`1">
+      <Item value="Push`0" priority="0" />
+      <Item value="Pop`0" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.GravitationalBody">
+      <Item value="Bodies" priority="0" />
+      <Item value="GravitationalConstant" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="0" />
+      <Item value="Min`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Region">
+      <Item value="Center" priority="5" />
+      <Item value="Points" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Random">
+      <Item value="Range`0" priority="7" />
+      <Item value="value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Vector2">
+      <Item value="sqrMagnitude" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ToArray`1" priority="0" />
+      <Item value="First`1" priority="1" />
+      <Item value="ElementAt`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Point">
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VoronoiMap">
+      <Item value="transform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QuadRegion">
+      <Item value="gameObject" priority="1" />
+      <Item value="transform" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HexRegion">
+      <Item value="renderer" priority="1" />
+      <Item value="gameObject" priority="1" />
+      <Item value="regionType" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="RegionType" priority="0" />
+      <Item value="GetTerrainType`0" priority="0" />
+      <Item value="Points" priority="0" />
+      <Item value="Edges" priority="13" />
+      <Item value="Neighbors" priority="0" />
+      <Item value="OptimizeMesh`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TileWater">
+      <Item value="Neighbors" priority="0" />
+      <Item value="gameObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VoronoiMap">
+      <Item value="TERRAIN_TYPE_GRASS" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VoronoiMap+TerrainType">
+      <Item value="Water" priority="0" />
+      <Item value="Grass" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HexRegion+Point">
+      <Item value="Pos" priority="14" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HexRegion+Edge">
+      <Item value="Points" priority="7" />
+      <Item value="Opposite" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Copy`0" priority="0" />
+      <Item value="Reverse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestTile+Edge">
+      <Item value="neighbor" priority="0" />
+      <Item value="point" priority="0" />
+      <Item value="Neighbor" priority="8" />
+      <Item value="Point" priority="4" />
+      <Item value="Type" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestTile+NeighborType">
+      <Item value="Grass" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestTile">
+      <Item value="transform" priority="0" />
+      <Item value="BuildBeach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Mesh">
+      <Item value="name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TilePoly">
+      <Item value="renderer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestTile">
+      <Item value="NeighborType`0" priority="2" />
+      <Item value="Edge`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestTile+NeighborType">
+      <Item value="Water" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TilePoly+PolyEdge">
+      <Item value="Neighbor" priority="1" />
+      <Item value="NextEdge" priority="4" />
+      <Item value="PreviousEdge" priority="9" />
+      <Item value="AddEdgeAfter`0" priority="5" />
+      <Item value="Point" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TilePoly">
+      <Item value="PolyEdge`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.MeshFilter">
+      <Item value="mesh" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Mesh">
+      <Item value="Destroy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Assets.Game.Weapons.ProjectileTypes">
+      <Item value="ProjectileType`0" priority="0" />
+      <Item value="Types" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.ParticleSystem">
+      <Item value="Emit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Collision">
+      <Item value="contacts" priority="1" />
+      <Item value="collider" priority="2" />
+      <Item value="gameObject" priority="2" />
+      <Item value="relativeVelocity" priority="0" />
+      <Item value="rigidbody" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Ships.Scripts.Shield">
+      <Item value="transform" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Collider">
+      <Item value="transform" priority="0" />
+      <Item value="gameObject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.ContactPoint">
+      <Item value="point" priority="0" />
+      <Item value="thisCollider" priority="2" />
+      <Item value="otherCollider" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.ShieldParticles">
+      <Item value="Kill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Assets.Game.Ships.Scripts.DestroyableObject">
+      <Item value="Damage`0" priority="0" />
+      <Item value="Update`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Interface/f:ShipListItem.cs" caret="88" fromTop="1" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Procedural Map/f:VoronoiMap.cs" caret="4421" fromTop="21" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Procedural Map/d:TileWater/f:TileWater.cs" caret="4134" fromTop="9" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Procedural Map/d:TileGround/f:TileGround.cs" caret="95" fromTop="4" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Procedural Map/f:HexRegion.cs" caret="3677" fromTop="0" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:Emitter.cs" caret="1938" fromTop="18" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Procedural Map/d:TestTile/f:TilePoly.cs" caret="1160" fromTop="21" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Procedural Map/d:TestTile/f:TestTile.cs" caret="2525" fromTop="29" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/d:AI/f:HumanPilot.cs" caret="2040" fromTop="30" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:InertialDrive.cs" caret="1138" fromTop="25" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Managers/f:InputManager.cs" caret="253" fromTop="10" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Managers/d:CameraManager/f:CameraManager.cs" caret="366" fromTop="0" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/f:Waypoint.cs" caret="473" fromTop="18" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Managers/f:Globals.cs" caret="0" fromTop="0" />
+      <File id="629ACD2D-B289-0752-9A3C-2D0CE91AF160/d:Assets/d:NGUI/d:Scripts/d:Editor/f:UISettings.cs" caret="605" fromTop="18" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/d:AI/f:AIPilot.cs" caret="5355" fromTop="17" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:Hull.cs" caret="441" fromTop="21" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Effects/d:Thrusters/f:ShipThrusterEmitter.cs" caret="1167" fromTop="20" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Effects/d:Thrusters/f:ShipThrusterLight.cs" caret="751" fromTop="26" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Weapons/f:Weapon.cs" caret="545" fromTop="0" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Weapons/d:Scripts/f:Warhead.cs" caret="1495" fromTop="45" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:Shield.cs" caret="1053" fromTop="17" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Managers/d:CameraManager/f:FollowCamera.cs" caret="286" fromTop="7" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/f:ShieldParticles.cs" caret="375" fromTop="18" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Weapons/d:Scripts/f:Projectile.cs" caret="1142" fromTop="29" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Detonator Explosion Framework/d:System/f:DetonatorFireball.cs" caret="5713" fromTop="17" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Detonator Explosion Framework/d:System/f:DetonatorSmoke.cs" caret="1766" fromTop="17" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:SpaceUnit.cs" caret="152" fromTop="7" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="2668" fromTop="12" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="2827" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/f:ShieldParticles.cs" caret="285" fromTop="13" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/f:ShieldParticles.cs" caret="209" fromTop="9" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/f:ShieldParticles.cs" caret="375" fromTop="18" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="2516" fromTop="17" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="2376" fromTop="13" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="1295" fromTop="12" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="733" fromTop="16" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="1211" fromTop="23" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="619" fromTop="13" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="733" fromTop="17" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="1411" fromTop="10" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:SpaceUnit.cs" caret="152" fromTop="7" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="358" fromTop="13" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="2845" fromTop="18" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:Game/d:Ships/d:Scripts/f:DestroyableObject.cs" caret="2668" fromTop="12" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="7894" fromTop="222" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="178" fromTop="8" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="220" fromTop="11" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="1076" fromTop="22" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="326" fromTop="15" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="3513" fromTop="14" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="3264" fromTop="16" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="4205" fromTop="17" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="5850" fromTop="25" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="5955" fromTop="12" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="6255" fromTop="7" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="6750" fromTop="22" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="7331" fromTop="26" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="4969" fromTop="30" />
+      <File id="933B6061-A70F-63C7-FE12-C925891F8BC5/d:Assets/d:OrbitalMech/f:SmallBody.cs" caret="2827" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
